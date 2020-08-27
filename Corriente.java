@@ -12,6 +12,7 @@ public class Corriente extends Cuenta{
                 '}';
     }
 	//hola a todos
+	//metodo consultar saldo (implementar)
     @Override
     public long consultarSaldo(Cliente cliente) {
         return 0;
