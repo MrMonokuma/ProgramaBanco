@@ -16,4 +16,5 @@ public class Corriente extends Cuenta{
     public long consultarSaldo(Cliente cliente) {
         return 0;
     }
+//prueba 2
 }
